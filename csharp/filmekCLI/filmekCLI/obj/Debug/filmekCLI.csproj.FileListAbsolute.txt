@@ -1,0 +1,7 @@
+C:\Users\Vizsga023\Desktop\filmekCLI\filmekCLI\bin\Debug\filmekCLI.exe.config
+C:\Users\Vizsga023\Desktop\filmekCLI\filmekCLI\bin\Debug\filmekCLI.exe
+C:\Users\Vizsga023\Desktop\filmekCLI\filmekCLI\bin\Debug\filmekCLI.pdb
+C:\Users\Vizsga023\Desktop\filmekCLI\filmekCLI\obj\Debug\filmekCLI.csproj.AssemblyReference.cache
+C:\Users\Vizsga023\Desktop\filmekCLI\filmekCLI\obj\Debug\filmekCLI.csproj.CoreCompileInputs.cache
+C:\Users\Vizsga023\Desktop\filmekCLI\filmekCLI\obj\Debug\filmekCLI.exe
+C:\Users\Vizsga023\Desktop\filmekCLI\filmekCLI\obj\Debug\filmekCLI.pdb

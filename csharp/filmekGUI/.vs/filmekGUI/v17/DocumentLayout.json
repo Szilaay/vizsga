@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vizsga023\\Desktop\\filmekGUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880B3D-7B51-4500-BEE2-98D7F8F60BA6}|filmekGUI\\filmekGUI.csproj|c:\\users\\vizsga023\\desktop\\filmekgui\\filmekgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880B3D-7B51-4500-BEE2-98D7F8F60BA6}|filmekGUI\\filmekGUI.csproj|solutionrelative:filmekgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880B3D-7B51-4500-BEE2-98D7F8F60BA6}|filmekGUI\\filmekGUI.csproj|c:\\users\\vizsga023\\desktop\\filmekgui\\filmekgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CC880B3D-7B51-4500-BEE2-98D7F8F60BA6}|filmekGUI\\filmekGUI.csproj|solutionrelative:filmekgui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC880B3D-7B51-4500-BEE2-98D7F8F60BA6}|filmekGUI\\filmekGUI.csproj|c:\\users\\vizsga023\\desktop\\filmekgui\\filmekgui\\adatbazis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC880B3D-7B51-4500-BEE2-98D7F8F60BA6}|filmekGUI\\filmekGUI.csproj|solutionrelative:filmekgui\\adatbazis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Vizsga023\\Desktop\\filmekGUI\\filmekGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "filmekGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Vizsga023\\Desktop\\filmekGUI\\filmekGUI\\Form1.cs",
+              "RelativeToolTip": "filmekGUI\\Form1.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAMwFoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:57:04.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adatbazis.cs",
+              "DocumentMoniker": "C:\\Users\\Vizsga023\\Desktop\\filmekGUI\\filmekGUI\\Adatbazis.cs",
+              "RelativeDocumentMoniker": "filmekGUI\\Adatbazis.cs",
+              "ToolTip": "C:\\Users\\Vizsga023\\Desktop\\filmekGUI\\filmekGUI\\Adatbazis.cs",
+              "RelativeToolTip": "filmekGUI\\Adatbazis.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:54:15.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Vizsga023\\Desktop\\filmekGUI\\filmekGUI\\Form1.cs",
+              "RelativeDocumentMoniker": "filmekGUI\\Form1.cs",
+              "ToolTip": "C:\\Users\\Vizsga023\\Desktop\\filmekGUI\\filmekGUI\\Form1.cs [Design]",
+              "RelativeToolTip": "filmekGUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:48:10.773Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.welcome{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.welcome p{
+    position: absolute;
+    bottom: 20px;
+}
