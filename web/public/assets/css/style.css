@@ -1,0 +1,21 @@
+.welcome{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.welcome p{
+    position: absolute;
+    bottom: 20px;
+}
+
+main h5 {
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+}
+
